@@ -1,0 +1,15 @@
+<assembly>
+
+    <formats>
+        <format>tar.gz</format>
+    </formats>
+
+    <fileSets>
+        <fileSet>
+            <includes>
+                <include>src/main/conf/*.conf</include>
+            </includes>
+        </fileSet>
+    </fileSets>
+
+</assembly>
